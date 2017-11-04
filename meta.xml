@@ -1,0 +1,10 @@
+<meta>
+    <info name="Points of Interest" author="rootcause" type="script" />
+
+    <!-- Files -->
+    <script src="Main.cs" type="server" lang="csharp" />
+    <script src="PointsOfInterest.js" type="client" lang="javascript" />
+
+    <!-- Libraries -->
+    <assembly ref="Newtonsoft.Json.dll" />
+</meta>
